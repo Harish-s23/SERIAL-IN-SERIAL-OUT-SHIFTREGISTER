@@ -10,7 +10,7 @@ Quartus prime
 
 **THEORY**
 
-**SISO shift Register**
+**SISO shift Register** 
 
 A Serial-In Serial-Out shift register is a sequential logic circuit that allows data to be shifted in and out one bit at a time in a serial manner. It consists of a cascade of flip-flops connected in series, forming a chain. The input data is applied to the first flip-flop in the chain, and as the clock pulses, the data propagates through the flip-flops, ultimately appearing at the output.
 
